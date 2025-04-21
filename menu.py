@@ -1,5 +1,5 @@
 def tampilkan_menu():
-    print("\n=== MENU KAFE KOPI ===")
+    print("\n=== MENU CMI COFFEE ===")
     print("1. Espresso            - Rp 18000")
     print("2. Cappuccino          - Rp 25000")
     print("3. Latte               - Rp 22000")
